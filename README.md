@@ -3,7 +3,7 @@ This repository contains the necessary files and instructions for setting up my 
 # Setting Cluster Nodes 
 1. Clone gihub repository 
 ```bash
-git clone https://github.com/mazen-tmani/hadoop-python-cluster
+git clone https://github.com/mazen-tmani/hadoop-python-cluster.git
 ```
 2. Create hadoop network
 ```bash
